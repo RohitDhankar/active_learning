@@ -1,7 +1,8 @@
 # active_learning
 Active Learning -- probbaly mostly - LIGHTLY 
 
-~~~
+```python
+
   (projection_head): SimSiamProjectionHead(
     (layers): Sequential(
       (0): Linear(in_features=512, out_features=512, bias=False)
@@ -21,4 +22,4 @@ Active Learning -- probbaly mostly - LIGHTLY
       (2): ReLU()
       (3): Linear(in_features=128, out_features=512, bias=True)
 
-~~~
+```
